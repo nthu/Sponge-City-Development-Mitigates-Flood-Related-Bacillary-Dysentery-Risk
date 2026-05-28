@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.DS_Store
+data/*.csv
+!data/.gitkeep
+results/*
+!results/.gitkeep
